@@ -1,5 +1,18 @@
-oc-id
+DEPRECATED: oc-id
 =====
+
+# DEPRECATED: Moved to chef-server repository
+
+New development on this component of the Chef Server now happens
+in the Chef Server repository:
+
+https://github.com/chef/chef-server
+
+The last chef-server version to ship with oc_id built from this
+repository was 12.0.8.
+
+Changes should only be made to this repository if they are needed for
+Chef Server 11.
 
 [![Build Status](https://travis-ci.org/chef/oc-id.svg)](https://travis-ci.org/chef/oc-id)
 
